@@ -102,9 +102,15 @@ Here you can find some useful links about React Native.
 - [fastlane](https://fastlane.tools/)
 
 - test and debugging
-
+- Hockey app
 - Google Play
+  - https://developer.android.com/distribute/best-practices/launch/launch-checklist
+  - https://developer.android.com/training/basics/firstapp/running-app
+  - https://facebook.github.io/react-native/docs/getting-started
 - Apple Store
+  - Testflight
+  - 2 eri tiliä
+  - 
 - https://developer.android.com/studio/
 - https://developer.apple.com/xcode/
 - https://atom.io
