@@ -19,9 +19,11 @@ Here you can find some useful links about React Native.
 - [React Native Radio](https://devchat.tv/react-native-radio/)
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [React Native Training](https://www.youtube.com/channel/UC8ivCOllOAo7MfPT9k3Hs-Q/featured)
-- [React Amsterdam / React Native](https://www.youtube.com/watch?v=N-X3Z5A-pW4)
-- [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
-- [React Day Berlin](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw)
+- [React Amsterdam](https://react.amsterdam)
+  - [Youtube](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
+  - [Youtube / React Native](https://www.youtube.com/watch?v=N-X3Z5A-pW4)
+- [React Day Berlin](https://reactday.berlin)
+  - [Youtube](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw)
 
 ## Courses
 - edX
@@ -38,6 +40,7 @@ Here you can find some useful links about React Native.
 
 - level 1 item
   - https://github.com/rebeccahughes/react-native-device-info
+  - https://github.com/thekevinbrown/react-native-schemes-manager
   - https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae 
   - level 2 item
     - level 3 item
