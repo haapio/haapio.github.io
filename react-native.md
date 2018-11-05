@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[back](./)
+[Back](./)
 
 # Header 1
 
