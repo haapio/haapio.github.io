@@ -10,7 +10,9 @@ Here you can find some useful links about React Native.
 
 ## Links:
 [React Native Blog](http://facebook.github.io/react-native/blog/)
+
 [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
+
 [React Native EU](https://react-native.eu)
 
 ## Stack:
