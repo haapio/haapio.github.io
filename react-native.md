@@ -10,13 +10,13 @@ Here you can find some useful links about React Native.
 
 ## Links
 - [React Native Blog](http://facebook.github.io/react-native/blog/)
+- [React Native Radio](https://devchat.tv/react-native-radio/)
 - [React Native EU](https://react-native.eu)
   - [Youtube](https://www.youtube.com/channel/UCbvLih553T7f5OAGTfbsJkQ)
-- [ReactiveConf](https://reactiveconf.com)
-  - [Youtube](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
 - [React Finland](https://react-finland.fi)
 - [React Helsinki](https://meetabit.com/communities/react-helsinki)
-- [React Native Radio](https://devchat.tv/react-native-radio/)
+- [ReactiveConf](https://reactiveconf.com)
+  - [Youtube](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
 - [React Native Training](https://www.youtube.com/channel/UC8ivCOllOAo7MfPT9k3Hs-Q/featured)
 - [React Amsterdam](https://react.amsterdam)
@@ -39,8 +39,9 @@ Here you can find some useful links about React Native.
 ## Stack
 
 - level 1 item
-  - https://github.com/rebeccahughes/react-native-device-info
-  - https://github.com/thekevinbrown/react-native-schemes-manager
+  - [Device Information for React Native iOS and Android](https://github.com/rebeccahughes/react-native-device-info)
+  - [React Native Schemes Manager](https://github.com/thekevinbrown/react-native-schemes-manager)
+  - [React Native Config](https://github.com/luggit/react-native-config)
   - https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae 
   - level 2 item
     - level 3 item
