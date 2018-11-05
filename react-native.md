@@ -101,7 +101,13 @@ Here you can find some useful links about React Native.
   
 - [fastlane](https://fastlane.tools/)
 
+- test and debugging
+
 - Google Play
 - Apple Store
+- https://developer.android.com/studio/
+- https://developer.apple.com/xcode/
+- https://atom.io
+- https://code.visualstudio.com
 
 
