@@ -8,7 +8,7 @@ layout: default
 
 Here you can find some useful links about React Native.
 
-## Links:
+## Links
 - [React Native Blog](http://facebook.github.io/react-native/blog/)
 - [React Native EU](https://react-native.eu)
 - [React Finland](https://react-finland.fi)
