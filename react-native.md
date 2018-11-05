@@ -103,12 +103,9 @@ Here you can find some useful links about React Native.
   - [Maps](https://github.com/react-community/react-native-maps)
   - [storybook](https://github.com/storybooks/storybook/tree/master/app/react-native)
 
-
-
 ## Others
 
 - [fastlane](https://fastlane.tools/)
-
 
 - Google Play
   - https://developer.android.com/distribute/best-practices/launch/launch-checklist
