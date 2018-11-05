@@ -4,11 +4,14 @@ layout: default
 
 [Back](./)
 
-# Header 1
+# React Native
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Here you can find some information about React Native.
 
-### And a nested list:
+## App Stack:
+[React Native Blog](http://facebook.github.io/react-native/blog/)
+
+## App Stack:
 
 - level 1 item
   - level 2 item
