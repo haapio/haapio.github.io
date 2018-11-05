@@ -9,13 +9,11 @@ layout: default
 Here you can find some useful links about React Native.
 
 ## Links:
-[React Native Blog](http://facebook.github.io/react-native/blog/)
-
-[React Native EU](https://react-native.eu)
-
-[React Finland](https://react-finland.fi)
-
-[React Helsinki](https://meetabit.com/communities/react-helsinki)
+- [React Native Blog](http://facebook.github.io/react-native/blog/)
+- [React Native EU](https://react-native.eu)
+- [React Finland](https://react-finland.fi)
+- [React Helsinki](https://meetabit.com/communities/react-helsinki)
+- [React Native Radio](https://devchat.tv/react-native-radio/)
 
 ## Courses
 - edX
