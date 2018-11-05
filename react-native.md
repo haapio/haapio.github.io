@@ -62,9 +62,9 @@ Here you can find some useful links about React Native.
   - [redux-persist](https://github.com/rt2zz/redux-persist)
 
 - Side effects
-  - (https://github.com/redux-saga/redux-saga)
-  - (https://github.com/reduxjs/redux-thunk)
-  - (https://redux-observable.js.org/)
+  - [redux-saga](https://github.com/redux-saga/redux-saga)
+  - [redux-thunk](https://github.com/reduxjs/redux-thunk)
+  - [redux-observable](https://redux-observable.js.org/)
 
 - Navigation
    - [React Navigation](https://reactnavigation.org)
@@ -73,8 +73,8 @@ Here you can find some useful links about React Native.
    - [React Native Router](https://github.com/aksonov/react-native-router-flux)
 
 - Animations
-  - [React Native's Animated library reimplemented](https://github.com/kmagiera/react-native-reanimated)
-  - [Declarative API exposing platform native touch and gesture system to React Native.](https://github.com/kmagiera/react-native-gesture-handler)
+  - [reanimated](https://github.com/kmagiera/react-native-reanimated)
+  - [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
   - [lottie](https://github.com/react-community/lottie-react-native)
 
 - Networking
@@ -94,17 +94,22 @@ Here you can find some useful links about React Native.
   - [lottie](https://github.com/react-community/lottie-react-native)
   - [styled-components](https://github.com/styled-components/styled-components)
 
+- Test and debugging
+
 - Others
   - [Hyperlink](https://github.com/obipawan/react-native-hyperlink)
   - [Fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
   - [Growing library to provide some basic geo functions](https://github.com/manuelbieh/Geolib)
   - [Maps](https://github.com/react-community/react-native-maps)
   - [storybook](https://github.com/storybooks/storybook/tree/master/app/react-native)
-  
+
+
+
+## Others
+
 - [fastlane](https://fastlane.tools/)
 
-- test and debugging
-- Hockey app
+
 - Google Play
   - https://developer.android.com/distribute/best-practices/launch/launch-checklist
   - https://developer.android.com/training/basics/firstapp/running-app
@@ -114,9 +119,10 @@ Here you can find some useful links about React Native.
   - Testflight
   - 2 eri tiliä
   - 
-- https://developer.android.com/studio/
-- https://developer.apple.com/xcode/
-- https://atom.io
-- https://code.visualstudio.com
+- [Hockey app](https://hockeyapp.net)
+- [Android studio](https://developer.android.com/studio/)
+- [xcode](https://developer.apple.com/xcode/)
+- [Atom](https://atom.io)
+- [Code](https://code.visualstudio.com)
 
 
