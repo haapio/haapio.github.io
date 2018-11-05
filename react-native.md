@@ -14,6 +14,11 @@ Here you can find some useful links about React Native.
 - [React Finland](https://react-finland.fi)
 - [React Helsinki](https://meetabit.com/communities/react-helsinki)
 - [React Native Radio](https://devchat.tv/react-native-radio/)
+- [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
+- [React Native Training](https://www.youtube.com/channel/UC8ivCOllOAo7MfPT9k3Hs-Q/featured)
+- [React Amsterdam / React Native](https://www.youtube.com/watch?v=N-X3Z5A-pW4)
+- [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
+- [React Day Berlin](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw)
 
 ## Courses
 - edX
