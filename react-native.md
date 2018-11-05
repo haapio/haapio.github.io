@@ -70,6 +70,7 @@ Here you can find some useful links about React Native.
    - [React Navigation](https://reactnavigation.org)
    - [Fluid Transitions for React Navigation](https://github.com/fram-x/FluidTransitions) 
    - [React Router](https://reacttraining.com/react-router/)
+   - [React Native Router](https://github.com/aksonov/react-native-router-flux)
 
 - Animations
   - [React Native's Animated library reimplemented](https://github.com/kmagiera/react-native-reanimated)
@@ -89,15 +90,16 @@ Here you can find some useful links about React Native.
 - [Forms](https://redux-form.com/7.4.2/)
 
 - User interface
-  - (https://github.com/oblador/react-native-vector-icons)
-  - (https://github.com/react-community/lottie-react-native)
-  - (https://github.com/styled-components/styled-components)
+  - [icons](https://github.com/oblador/react-native-vector-icons)
+  - [lottie](https://github.com/react-community/lottie-react-native)
+  - [styled-components](https://github.com/styled-components/styled-components)
 
 - Others
   - [Hyperlink](https://github.com/obipawan/react-native-hyperlink)
   - [Fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
   - [Growing library to provide some basic geo functions](https://github.com/manuelbieh/Geolib)
   - [Maps](https://github.com/react-community/react-native-maps)
+  - [storybook](https://github.com/storybooks/storybook/tree/master/app/react-native)
   
 - [fastlane](https://fastlane.tools/)
 
@@ -107,6 +109,7 @@ Here you can find some useful links about React Native.
   - https://developer.android.com/distribute/best-practices/launch/launch-checklist
   - https://developer.android.com/training/basics/firstapp/running-app
   - https://facebook.github.io/react-native/docs/getting-started
+  - 
 - Apple Store
   - Testflight
   - 2 eri tiliä
