@@ -23,7 +23,7 @@ Here you can find some information about React Native.
   - level 2 item
   - level 2 item
 - level 1 item
-  - level 2 item
+  - [Prettier](https://prettier.io)
   - level 2 item
 - level 1 item
 
