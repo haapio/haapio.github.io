@@ -26,7 +26,7 @@ Here you can find some useful links about React Native.
   - [React Native: Advanced Concepts](https://www.udemy.com/react-native-advanced/)
   - [Master React Native Animations](https://www.udemy.com/master-react-native-animations/)
 
-## Stack:
+## Stack
 
 - level 1 item
   - https://github.com/rebeccahughes/react-native-device-info
