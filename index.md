@@ -1,5 +1,2 @@
----
-layout: default
----
-[React Native](./react-native.html).
+[React Native](./react-native.html)
 
