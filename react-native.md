@@ -53,14 +53,13 @@ Here you can find some useful links about React Native.
   - [Localization](https://github.com/AlexanderZaytsev/react-native-i18n)
  
 - Utils
-  - (https://lodash.com)
-  - (https://ramdajs.com/)
-  - (https://momentjs.com/)
+  - [lodash](https://lodash.com)
+  - [Moment](https://momentjs.com/)
   
 - App state
-  - (https://redux.js.org/)
-  - (https://github.com/reduxjs/react-redux)
-  - (https://github.com/rt2zz/redux-persist)
+  - [Redux](https://redux.js.org/)
+  - [react-redux](https://github.com/reduxjs/react-redux)
+  - [redux-persist](https://github.com/rt2zz/redux-persist)
 
 - Side effects
   - (https://github.com/redux-saga/redux-saga)
@@ -68,22 +67,22 @@ Here you can find some useful links about React Native.
   - (https://redux-observable.js.org/)
 
 - Navigation
-   - (https://reactnavigation.org)
-   - (https://github.com/fram-x/FluidTransitions) 
-   - (https://reacttraining.com/react-router/)
+   - [React Navigation](https://reactnavigation.org)
+   - [Fluid Transitions for React Navigation](https://github.com/fram-x/FluidTransitions) 
+   - [React Router](https://reacttraining.com/react-router/)
 
 - Animations
-  - (https://github.com/kmagiera/react-native-reanimated)
-  - (https://github.com/kmagiera/react-native-gesture-handler)
-  - (https://github.com/react-community/lottie-react-native)
+  - [React Native's Animated library reimplemented](https://github.com/kmagiera/react-native-reanimated)
+  - [Declarative API exposing platform native touch and gesture system to React Native.](https://github.com/kmagiera/react-native-gesture-handler)
+  - [lottie](https://github.com/react-community/lottie-react-native)
 
 - Networking
-  - (https://github.com/axios/axios)
-  - (https://github.com/invertase/react-native-firebase)
-  - (https://www.apollographql.com/)
+  - [axios](https://github.com/axios/axios)
+  - [Firebase](https://github.com/invertase/react-native-firebase)
+  - [Apollo](https://www.apollographql.com/)
 
 - [Expo](https://expo.io)
-  - https://snack.expo.io
+  - [Snack](https://snack.expo.io)
 
 - [Material Design for React Native](https://github.com/callstack/react-native-paper)
 
@@ -95,9 +94,10 @@ Here you can find some useful links about React Native.
   - (https://github.com/styled-components/styled-components)
 
 - Others
-  - (https://github.com/obipawan/react-native-hyperlink)
-  - (https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
-  - (https://www.npmjs.com/package/geolib)
+  - [Hyperlink](https://github.com/obipawan/react-native-hyperlink)
+  - [Fonts](https://medium.com/react-native-training/react-native-custom-fonts-ccc9aacf9e5e)
+  - [Growing library to provide some basic geo functions](https://github.com/manuelbieh/Geolib)
+  - [Maps](https://github.com/react-community/react-native-maps)
   
 - [fastlane](https://fastlane.tools/)
 
