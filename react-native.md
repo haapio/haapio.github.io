@@ -14,17 +14,23 @@ Here you can find some information about React Native.
 ## Stack:
 
 - level 1 item
-  - level 2 item
+  - https://github.com/rebeccahughes/react-native-device-info
+  - https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae 
   - level 2 item
     - level 3 item
     - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
+- [React Navigation](https://reactnavigation.org)
+- [Expo](https://expo.io)
+- [Material Design for React Native](https://github.com/callstack/react-native-paper)
+- Animations
+  - https://airbnb.design/lottie/
+  - https://github.com/react-community/lottie-react-native
   - level 2 item
 - level 1 item
   - [Prettier](https://prettier.io)
   - level 2 item
-- level 1 item
+- [fastlane](https://fastlane.tools/)
+- Google Play
+- Apple Store
 
 
