@@ -115,7 +115,6 @@ layout: default
 - [Apollo](https://www.apollographql.com/)
 - [AWS Amplify](https://github.com/aws-amplify/amplify-js)
 - [fastlane](https://fastlane.tools/)
-
 - [Expo](https://docs.expo.io/versions/v31.0.0/distribution/)
 
 - Google Play
