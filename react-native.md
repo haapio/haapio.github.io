@@ -53,7 +53,6 @@ Here you can find some useful links about React Native.
   - [SplashScreen](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
   - [Localization](https://github.com/AlexanderZaytsev/react-native-i18n)
   - [React Native Sensitive Info](https://github.com/mCodex/react-native-sensitive-info)
-  - [Modal](https://github.com/react-native-community/react-native-modal)
  
 - Utils
   - [lodash](https://lodash.com)
@@ -113,6 +112,7 @@ Here you can find some useful links about React Native.
   - [Growing library to provide some basic geo functions](https://github.com/manuelbieh/Geolib)
   - [Maps](https://github.com/react-community/react-native-maps)
   - [storybook](https://github.com/storybooks/storybook/tree/master/app/react-native)
+  - [Modal](https://github.com/react-native-community/react-native-modal)
 
 ## Others
 
