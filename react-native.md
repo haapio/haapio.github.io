@@ -2,11 +2,7 @@
 layout: default
 ---
 
-[Back](./)
-
 # React Native
-
-Here you can find some useful links about React Native.
 
 ## Links
 - [React Native Blog](http://facebook.github.io/react-native/blog/)
@@ -77,19 +73,19 @@ Here you can find some useful links about React Native.
 - Navigation
    - [React Navigation](https://reactnavigation.org)
    - [Fluid Transitions for React Navigation](https://github.com/fram-x/FluidTransitions) 
-   - [React Router](https://reacttraining.com/react-router/)
    - [React Native Router](https://github.com/aksonov/react-native-router-flux)
    - [react-native-screens](https://github.com/kmagiera/react-native-screens/)
 
-- Animations
+- Animations & gesture handlers
   - [reanimated](https://github.com/kmagiera/react-native-reanimated)
   - [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
   - [lottie](https://github.com/react-community/lottie-react-native)
 
 - Networking
   - [axios](https://github.com/axios/axios)
-  - [Firebase](https://github.com/invertase/react-native-firebase)
   - [Apollo](https://www.apollographql.com/)
+  - [AWS Amplify](https://github.com/aws-amplify/amplify-js)
+  - [Firebase](https://github.com/invertase/react-native-firebase)
 
 - [Expo](https://expo.io)
   - [Snack](https://snack.expo.io)
@@ -100,7 +96,6 @@ Here you can find some useful links about React Native.
 
 - User interface
   - [icons](https://github.com/oblador/react-native-vector-icons)
-  - [lottie](https://github.com/react-community/lottie-react-native)
   - [styled-components](https://github.com/styled-components/styled-components)
 
 - Test and debugging
@@ -114,6 +109,7 @@ Here you can find some useful links about React Native.
   - [Maps](https://github.com/react-community/react-native-maps)
   - [storybook](https://github.com/storybooks/storybook/tree/master/app/react-native)
   - [Modal](https://github.com/react-native-community/react-native-modal)
+  - [WebView](https://github.com/react-native-community/react-native-webview)
 
 ## Others
 
