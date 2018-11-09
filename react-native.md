@@ -120,15 +120,13 @@ Here you can find some useful links about React Native.
 - [Firebase](https://github.com/invertase/react-native-firebase)
 - [fastlane](https://fastlane.tools/)
 
-- Expo
-  - (https://docs.expo.io/versions/v31.0.0/distribution/)
-    (https://docs.expo.io/versions/latest/workflow/configuration)
+- [Expo](https://docs.expo.io/versions/v31.0.0/distribution/)
 
 - Google Play
-  - (https://developer.android.com/distribute/best-practices/launch/launch-checklist)
-  - (https://developer.android.com/training/basics/firstapp/running-app)
-  - (https://facebook.github.io/react-native/docs/getting-started)
-  - 
+  - [launch-checklist](https://developer.android.com/distribute/best-practices/launch/launch-checklist)
+  - [running-app](https://developer.android.com/training/basics/firstapp/running-app)
+  - [getting-started](https://facebook.github.io/react-native/docs/getting-started)
+  
 - Apple Store
   - [App Store Connect](https://appstoreconnect.apple.com)
   - [Apple Developer](https://developer.apple.com)
