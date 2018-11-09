@@ -150,6 +150,9 @@ https://github.com/danger/danger-js
 https://github.com/benevbright/react-navigation-collapsible
 https://medium.com/tag/react-native
 https://medium.freecodecamp.org/how-to-deliver-a-react-native-app-to-the-client-e58421e7272e
+https://randomuser.me/documentation
+https://httpbin.org/ip
+https://github.com/marak/Faker.js/
 
 
 
