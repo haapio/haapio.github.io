@@ -33,6 +33,7 @@ layout: default
   - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/)
   - [React Native: Advanced Concepts](https://www.udemy.com/react-native-advanced/)
   - [Master React Native Animations](https://www.udemy.com/master-react-native-animations/)
+  - [fastlane](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/)
 
 ## Stack
 
@@ -108,6 +109,12 @@ layout: default
   - [Modal](https://github.com/react-native-community/react-native-modal)
   - [WebView](https://github.com/react-native-community/react-native-webview)
 
+- Crash report
+  - [expo](https://docs.expo.io/versions/latest/guides/errors)
+  - [react-native-sentry](https://github.com/getsentry/react-native-sentry)
+  - [bugsnag-react-native](https://github.com/bugsnag/bugsnag-react-native)
+  - [appcenter](https://docs.microsoft.com/en-us/appcenter/sdk/crashes/react-native)
+  - [instabug](https://instabug.com/platforms/react-native)
 ## Others
 
 - [Firebase cloud messaging](https://github.com/evollu/react-native-fcm)
@@ -136,23 +143,23 @@ layout: default
 - [Code](https://code.visualstudio.com)
 
 - [unsplash](https://unsplash.com)
-https://www.lottiefiles.com/
-https://www.prisma.io
-https://www.apollographql.com/client/
-https://graphql.org/learn/
-https://github.com/sogko/graphql-schema-language-cheat-sheet
-https://github.com/Nozbe/WatermelonDB
-https://realm.io/blog/introducing-realm-react-native/
-https://github.com/vhpoet/react-native-styling-cheat-sheet
-https://github.com/infinitered/reactotron
-https://github.com/callstack/haul
-https://github.com/danger/danger-js
-https://github.com/benevbright/react-navigation-collapsible
-https://medium.com/tag/react-native
-https://medium.freecodecamp.org/how-to-deliver-a-react-native-app-to-the-client-e58421e7272e
-https://randomuser.me/documentation
-https://httpbin.org/ip
-https://github.com/marak/Faker.js/
+- [lottiefiles](https://www.lottiefiles.com/)
+- [prisma](https://www.prisma.io)
+- [apollographql client](https://www.apollographql.com/client/)
+- [graphql](https://graphql.org/learn/)
+- [graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+- [realm](https://realm.io/blog/introducing-realm-react-native/)
+- [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+- [reactotron](https://github.com/infinitered/reactotron)
+- [haul](https://github.com/callstack/haul)
+- [danger-js](https://github.com/danger/danger-js)
+- [react-navigation-collapsible](https://github.com/benevbright/react-navigation-collapsible)
+- [react-native](https://medium.com/tag/react-native)
+- [deliver](https://medium.freecodecamp.org/how-to-deliver-a-react-native-app-to-the-client-e58421e7272e)
+- [randomuser](https://randomuser.me/documentation)
+- [httpbin](https://httpbin.org/ip)
+- [faker](https://github.com/marak/Faker.js/)
 
 
 
