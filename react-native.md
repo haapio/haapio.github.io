@@ -52,20 +52,28 @@ Here you can find some useful links about React Native.
   - [React Native Config](https://github.com/luggit/react-native-config)
   - [SplashScreen](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
   - [Localization](https://github.com/AlexanderZaytsev/react-native-i18n)
+  - [React Native Sensitive Info](https://github.com/mCodex/react-native-sensitive-info)
+  - [Modal](https://github.com/react-native-community/react-native-modal)
  
 - Utils
   - [lodash](https://lodash.com)
   - [Moment](https://momentjs.com/)
+  - [URI.js](https://github.com/medialize/URI.js)
   
 - App state
   - [Redux](https://redux.js.org/)
   - [react-redux](https://github.com/reduxjs/react-redux)
   - [redux-persist](https://github.com/rt2zz/redux-persist)
-
-- Side effects
+  - [redux-persist-sensitive-storage](https://github.com/CodingZeal/redux-persist-sensitive-storage)
+  - [redux-logger](https://github.com/LogRocket/redux-logger)
+  - [reselect](https://github.com/reduxjs/reselect)
+  - [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions)
+  - [redux-immutable](https://github.com/gajus/redux-immutable)
+  - [redux-persist-immutable](https://github.com/rt2zz/redux-persist-immutable)
   - [redux-saga](https://github.com/redux-saga/redux-saga)
   - [redux-thunk](https://github.com/reduxjs/redux-thunk)
   - [redux-observable](https://redux-observable.js.org/)
+  - [redux-persist-transform-filter-immutable](https://github.com/actra-development-oss/redux-persist-transform-filter-immutable)
 
 - Navigation
    - [React Navigation](https://reactnavigation.org)
@@ -96,6 +104,8 @@ Here you can find some useful links about React Native.
   - [styled-components](https://github.com/styled-components/styled-components)
 
 - Test and debugging
+- [Jest](https://jestjs.io/docs/en/tutorial-react-native)
+- [Detox](https://github.com/wix/Detox)
 
 - Others
   - [Hyperlink](https://github.com/obipawan/react-native-hyperlink)
@@ -106,7 +116,10 @@ Here you can find some useful links about React Native.
 
 ## Others
 
+- [Firebase cloud messaging](https://github.com/evollu/react-native-fcm)
+- [Firebase](https://github.com/invertase/react-native-firebase)
 - [fastlane](https://fastlane.tools/)
+
 - Expo
   - (https://docs.expo.io/versions/v31.0.0/distribution/app-stores)
     (https://docs.expo.io/versions/v31.0.0/distribution/building-standalone-apps)
