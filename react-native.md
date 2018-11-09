@@ -107,16 +107,21 @@ Here you can find some useful links about React Native.
 ## Others
 
 - [fastlane](https://fastlane.tools/)
+- Expo
+  - [https://docs.expo.io/versions/v31.0.0/distribution/app-stores]
+    [https://docs.expo.io/versions/v31.0.0/distribution/building-standalone-apps]
+    [https://docs.expo.io/versions/latest/workflow/configuration]
 
 - Google Play
-  - https://developer.android.com/distribute/best-practices/launch/launch-checklist
-  - https://developer.android.com/training/basics/firstapp/running-app
-  - https://facebook.github.io/react-native/docs/getting-started
+  - [https://developer.android.com/distribute/best-practices/launch/launch-checklist]
+  - [https://developer.android.com/training/basics/firstapp/running-app]
+  - [https://facebook.github.io/react-native/docs/getting-started]
   - 
 - Apple Store
-  - Testflight
-  - 2 eri tiliä
-  - 
+  - [App Store Connect](https://appstoreconnect.apple.com)
+  - [Apple Developer](https://developer.apple.com)
+  - [Enterprise](https://developer.apple.com/programs/enterprise/)
+
 - [Hockey app](https://hockeyapp.net)
 - [Android studio](https://developer.android.com/studio/)
 - [xcode](https://developer.apple.com/xcode/)
