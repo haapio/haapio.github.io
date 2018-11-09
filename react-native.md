@@ -116,6 +116,7 @@ layout: default
 - [AWS Amplify](https://github.com/aws-amplify/amplify-js)
 - [fastlane](https://fastlane.tools/)
 - [Expo](https://docs.expo.io/versions/v31.0.0/distribution/)
+- [hooks](https://reactjs.org/docs/hooks-intro.html)
 
 - Google Play
   - [launch-checklist](https://developer.android.com/distribute/best-practices/launch/launch-checklist)
@@ -128,9 +129,27 @@ layout: default
   - [Enterprise](https://developer.apple.com/programs/enterprise/)
 
 - [Hockey app](https://hockeyapp.net)
+- [Visual Studio App Center](https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native)
 - [Android studio](https://developer.android.com/studio/)
 - [xcode](https://developer.apple.com/xcode/)
 - [Atom](https://atom.io)
 - [Code](https://code.visualstudio.com)
+
+- [unsplash](https://unsplash.com)
+https://www.lottiefiles.com/
+https://www.prisma.io
+https://www.apollographql.com/client/
+https://graphql.org/learn/
+https://github.com/sogko/graphql-schema-language-cheat-sheet
+https://github.com/Nozbe/WatermelonDB
+https://realm.io/blog/introducing-realm-react-native/
+https://github.com/vhpoet/react-native-styling-cheat-sheet
+https://github.com/infinitered/reactotron
+https://github.com/callstack/haul
+https://github.com/danger/danger-js
+https://github.com/benevbright/react-navigation-collapsible
+https://medium.com/tag/react-native
+https://medium.freecodecamp.org/how-to-deliver-a-react-native-app-to-the-client-e58421e7272e
+
 
 
