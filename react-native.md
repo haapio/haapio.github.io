@@ -77,15 +77,12 @@ layout: default
    - [react-native-screens](https://github.com/kmagiera/react-native-screens/)
 
 - Animations & gesture handlers
+  - [Animated](https://facebook.github.io/react-native/docs/animated)
   - [reanimated](https://github.com/kmagiera/react-native-reanimated)
   - [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
   - [lottie](https://github.com/react-community/lottie-react-native)
 
-- Networking
-  - [axios](https://github.com/axios/axios)
-  - [Apollo](https://www.apollographql.com/)
-  - [AWS Amplify](https://github.com/aws-amplify/amplify-js)
-  - [Firebase](https://github.com/invertase/react-native-firebase)
+- [axios](https://github.com/axios/axios)
 
 - [Expo](https://expo.io)
   - [Snack](https://snack.expo.io)
@@ -115,6 +112,8 @@ layout: default
 
 - [Firebase cloud messaging](https://github.com/evollu/react-native-fcm)
 - [Firebase](https://github.com/invertase/react-native-firebase)
+- [Apollo](https://www.apollographql.com/)
+- [AWS Amplify](https://github.com/aws-amplify/amplify-js)
 - [fastlane](https://fastlane.tools/)
 
 - [Expo](https://docs.expo.io/versions/v31.0.0/distribution/)
