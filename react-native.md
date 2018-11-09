@@ -79,6 +79,7 @@ Here you can find some useful links about React Native.
    - [Fluid Transitions for React Navigation](https://github.com/fram-x/FluidTransitions) 
    - [React Router](https://reacttraining.com/react-router/)
    - [React Native Router](https://github.com/aksonov/react-native-router-flux)
+   - [react-native-screens](https://github.com/kmagiera/react-native-screens/)
 
 - Animations
   - [reanimated](https://github.com/kmagiera/react-native-reanimated)
