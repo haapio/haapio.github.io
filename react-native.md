@@ -104,8 +104,8 @@ Here you can find some useful links about React Native.
   - [styled-components](https://github.com/styled-components/styled-components)
 
 - Test and debugging
-- [Jest](https://jestjs.io/docs/en/tutorial-react-native)
-- [Detox](https://github.com/wix/Detox)
+  - [Jest](https://jestjs.io/docs/en/tutorial-react-native)
+  - [Detox](https://github.com/wix/Detox)
 
 - Others
   - [Hyperlink](https://github.com/obipawan/react-native-hyperlink)
