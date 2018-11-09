@@ -10,7 +10,7 @@ Here you can find some useful links about React Native.
 
 ## Links
 - [React Native Blog](http://facebook.github.io/react-native/blog/)
-- (https://react-native.canny.io/feature-requests/)
+- [feature-requests](https://react-native.canny.io/feature-requests/)
 - [React Native Radio](https://devchat.tv/react-native-radio/)
 - [React Native EU](https://react-native.eu)
   - [Youtube](https://www.youtube.com/channel/UCbvLih553T7f5OAGTfbsJkQ)
