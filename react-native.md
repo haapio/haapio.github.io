@@ -14,6 +14,7 @@ Here you can find some useful links about React Native.
 - [React Native Radio](https://devchat.tv/react-native-radio/)
 - [React Native EU](https://react-native.eu)
   - [Youtube](https://www.youtube.com/channel/UCbvLih553T7f5OAGTfbsJkQ)
+- [App.js conf](https://appjs.co)
 - [React Finland](https://react-finland.fi)
 - [React Helsinki](https://meetabit.com/communities/react-helsinki)
 - [ReactiveConf](https://reactiveconf.com)
