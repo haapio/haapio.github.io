@@ -49,7 +49,6 @@ layout: default
   - [React Native Config](https://github.com/luggit/react-native-config)
   - [SplashScreen](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
   - [Localization](https://github.com/AlexanderZaytsev/react-native-i18n)
-  - [React Native Sensitive Info](https://github.com/mCodex/react-native-sensitive-info)
  
 - Utils
   - [lodash](https://lodash.com)
@@ -104,15 +103,9 @@ layout: default
   - [Modal](https://github.com/react-native-community/react-native-modal)
   - [WebView](https://github.com/react-native-community/react-native-webview)
 
-- Crash report
-  - [expo](https://docs.expo.io/versions/latest/guides/errors)
-  - [react-native-sentry](https://github.com/getsentry/react-native-sentry)
-  - [bugsnag-react-native](https://github.com/bugsnag/bugsnag-react-native)
-  - [appcenter](https://docs.microsoft.com/en-us/appcenter/sdk/crashes/react-native)
-  - [instabug](https://instabug.com/platforms/react-native)
 ## Others
 
-
+- [React Native Sensitive Info](https://github.com/mCodex/react-native-sensitive-info)
 - [Firebase cloud messaging](https://github.com/evollu/react-native-fcm)
 - [Firebase](https://github.com/invertase/react-native-firebase)
 - [Apollo](https://www.apollographql.com/)
@@ -120,6 +113,13 @@ layout: default
 - [fastlane](https://fastlane.tools/)
 - [Expo](https://docs.expo.io/versions/v31.0.0/distribution/)
 - [hooks](https://reactjs.org/docs/hooks-intro.html)
+
+- Crash report
+  - [expo](https://docs.expo.io/versions/latest/guides/errors)
+  - [react-native-sentry](https://github.com/getsentry/react-native-sentry)
+  - [bugsnag-react-native](https://github.com/bugsnag/bugsnag-react-native)
+  - [appcenter](https://docs.microsoft.com/en-us/appcenter/sdk/crashes/react-native)
+  - [instabug](https://instabug.com/platforms/react-native)
 
 - Google Play
   - [launch-checklist](https://developer.android.com/distribute/best-practices/launch/launch-checklist)
