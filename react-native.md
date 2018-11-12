@@ -51,9 +51,9 @@ layout: default
   - [Localization](https://github.com/AlexanderZaytsev/react-native-i18n)
  
 - Utils
-  - [lodash](https://lodash.com)
   - [Moment](https://momentjs.com/)
   - [URI.js](https://github.com/medialize/URI.js)
+  - [lodash](https://lodash.com)
   
 - App state
   - [Redux](https://redux.js.org/)
@@ -103,6 +103,8 @@ layout: default
   - [Modal](https://github.com/react-native-community/react-native-modal)
   - [WebView](https://github.com/react-native-community/react-native-webview)
 
+- [Material Design for React Native](https://github.com/callstack/react-native-paper)
+
 ## Others
 
 - [React Native Sensitive Info](https://github.com/mCodex/react-native-sensitive-info)
@@ -140,8 +142,6 @@ layout: default
 
 - [Expo](https://expo.io)
   - [Snack](https://snack.expo.io)
-
-- [Material Design for React Native](https://github.com/callstack/react-native-paper)
 
 - [unsplash](https://unsplash.com)
 - [lottiefiles](https://www.lottiefiles.com/)
