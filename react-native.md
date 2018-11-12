@@ -73,7 +73,7 @@ layout: default
 - Navigation
    - [React Navigation](https://reactnavigation.org)
    - [Fluid Transitions for React Navigation](https://github.com/fram-x/FluidTransitions) 
-   - [React Native Router](https://github.com/aksonov/react-native-router-flux)
+   - [React Native Router Flux](https://github.com/aksonov/react-native-router-flux)
    - [react-native-screens](https://github.com/kmagiera/react-native-screens/)
 
 - Animations & gesture handlers
@@ -161,6 +161,7 @@ layout: default
 - [randomuser](https://randomuser.me/documentation)
 - [httpbin](https://httpbin.org/ip)
 - [faker](https://github.com/marak/Faker.js/)
+- [After effects](https://www.adobe.com/fi/products/aftereffects.html)
 
 
 
