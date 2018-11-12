@@ -85,11 +85,6 @@ layout: default
 
 - [axios](https://github.com/axios/axios)
 
-- [Expo](https://expo.io)
-  - [Snack](https://snack.expo.io)
-
-- [Material Design for React Native](https://github.com/callstack/react-native-paper)
-
 - [Forms](https://redux-form.com/7.4.2/)
 
 - User interface
@@ -117,6 +112,7 @@ layout: default
   - [instabug](https://instabug.com/platforms/react-native)
 ## Others
 
+
 - [Firebase cloud messaging](https://github.com/evollu/react-native-fcm)
 - [Firebase](https://github.com/invertase/react-native-firebase)
 - [Apollo](https://www.apollographql.com/)
@@ -141,6 +137,11 @@ layout: default
 - [xcode](https://developer.apple.com/xcode/)
 - [Atom](https://atom.io)
 - [Code](https://code.visualstudio.com)
+
+- [Expo](https://expo.io)
+  - [Snack](https://snack.expo.io)
+
+- [Material Design for React Native](https://github.com/callstack/react-native-paper)
 
 - [unsplash](https://unsplash.com)
 - [lottiefiles](https://www.lottiefiles.com/)
