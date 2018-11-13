@@ -22,6 +22,7 @@ layout: default
   - [Youtube / React Native](https://www.youtube.com/watch?v=N-X3Z5A-pW4)
 - [React Day Berlin](https://reactday.berlin)
   - [Youtube](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw)
+- [Can it be done in react native](https://www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA)
 
 ## Courses
 - edX
