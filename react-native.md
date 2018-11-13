@@ -23,7 +23,7 @@ layout: default
 - [React Day Berlin](https://reactday.berlin)
   - [Youtube](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw)
 - [Can it be done in react native](https://www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA)
-- [React Conf]
+- [React Conf](https://conf.reactjs.org)
   - [youtube](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
 
 ## Courses
