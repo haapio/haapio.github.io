@@ -25,6 +25,9 @@ layout: default
 - [Can it be done in react native](https://www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA)
 - [React Conf](https://conf.reactjs.org)
   - [youtube](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
+- [mDevCamp](https://mdevcamp.eu)
+  - [twitter](https://twitter.com/mdevcamp)
+- [AppDevCon](https://appdevcon.nl/schedule/)
 
 ## Courses
 - edX
