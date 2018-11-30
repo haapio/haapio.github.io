@@ -8,6 +8,7 @@ layout: default
 - [React Native Blog](http://facebook.github.io/react-native/blog/)
 - [feature-requests](https://react-native.canny.io/feature-requests/)
 - [React Native Radio](https://devchat.tv/react-native-radio/)
+- [React Native Medium](https://medium.com/tag/react-native)
 - [React Native EU](https://react-native.eu)
   - [Youtube](https://www.youtube.com/channel/UCbvLih553T7f5OAGTfbsJkQ)
 - [App.js conf](https://appjs.co)
@@ -139,38 +140,45 @@ layout: default
   - [Enterprise](https://developer.apple.com/programs/enterprise/)
 
 - [Visual Studio App Center](https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native)
+
 - [Android studio](https://developer.android.com/studio/)
 - [xcode](https://developer.apple.com/xcode/)
 - [Visual Studio Code](https://code.visualstudio.com)
-  - (https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
-  - [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens]
-  - [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag]
-  - [https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native]
-  - [https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense]
-  - [https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer]
-  - [https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux]
-  - [https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify]
-  - [https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools]
+  - [https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
+  - [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+  - [https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
+  - [https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+  - [https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+  - [https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)
+  - [https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+  - [https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools)
   - [https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode]
+  - [https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode]()
 
 - [Expo](https://expo.io)
   - [Snack](https://snack.expo.io)
   - [Expo](https://docs.expo.io/versions/v31.0.0/distribution/)
 
-- [unsplash](https://unsplash.com)
+- Database
+  - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+  - [realm](https://realm.io/blog/introducing-realm-react-native/)
+
+- [Free images](https://unsplash.com)
 - [lottiefiles](https://www.lottiefiles.com/)
-- [prisma](https://www.prisma.io)
-- [apollographql client](https://www.apollographql.com/client/)
-- [graphql](https://graphql.org/learn/)
-- [graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
-- [realm](https://realm.io/blog/introducing-realm-react-native/)
+
+- Graphql
+  - [prisma](https://www.prisma.io)
+  - [apollographql client](https://www.apollographql.com/client/)
+  - [graphql](https://graphql.org/learn/)
+  - [graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
+
 - [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 - [reactotron](https://github.com/infinitered/reactotron)
 - [haul](https://github.com/callstack/haul)
 - [danger-js](https://github.com/danger/danger-js)
 - [react-navigation-collapsible](https://github.com/benevbright/react-navigation-collapsible)
-- [react-native](https://medium.com/tag/react-native)
+
 - [deliver](https://medium.freecodecamp.org/how-to-deliver-a-react-native-app-to-the-client-e58421e7272e)
 - [randomuser](https://randomuser.me/documentation)
 - [httpbin](https://httpbin.org/ip)
