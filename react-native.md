@@ -142,7 +142,7 @@ layout: default
 - [Android studio](https://developer.android.com/studio/)
 - [xcode](https://developer.apple.com/xcode/)
 - [Visual Studio Code](https://code.visualstudio.com)
-  - [https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons]
+  - (https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
   - [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens]
   - [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag]
   - [https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native]
