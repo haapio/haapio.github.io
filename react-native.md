@@ -153,8 +153,7 @@ layout: default
   - [https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)
   - [https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
   - [https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools)
-  - [https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode]
-  - [https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode]()
+  - [https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
 - [Expo](https://expo.io)
   - [Snack](https://snack.expo.io)
