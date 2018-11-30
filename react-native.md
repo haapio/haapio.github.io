@@ -119,8 +119,7 @@ layout: default
 - [Firebase](https://github.com/invertase/react-native-firebase)
 - [Apollo](https://www.apollographql.com/)
 - [AWS Amplify](https://github.com/aws-amplify/amplify-js)
-- [fastlane](https://fastlane.tools/)
-- [hooks](https://reactjs.org/docs/hooks-intro.html)
+- [fastlane](https://fastlane.tools)
 
 - Crash report
   - [expo](https://docs.expo.io/versions/latest/guides/errors)
@@ -177,7 +176,7 @@ layout: default
 - [haul](https://github.com/callstack/haul)
 - [danger-js](https://github.com/danger/danger-js)
 - [react-navigation-collapsible](https://github.com/benevbright/react-navigation-collapsible)
-
+- [hooks](https://reactjs.org/docs/hooks-intro.html)
 - [deliver](https://medium.freecodecamp.org/how-to-deliver-a-react-native-app-to-the-client-e58421e7272e)
 - [randomuser](https://randomuser.me/documentation)
 - [httpbin](https://httpbin.org/ip)
