@@ -141,6 +141,7 @@ layout: default
 - [Visual Studio App Center](https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/react-native)
 
 - [Android studio](https://developer.android.com/studio/)
+- [Genymotion](https://www.genymotion.com)
 - [xcode](https://developer.apple.com/xcode/)
 - [Visual Studio Code](https://code.visualstudio.com)
   - [https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
