@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Flutter
+# iOS / Swift
 
 ## Links
 - [coursera](https://www.coursera.org/specializations/app-development)
