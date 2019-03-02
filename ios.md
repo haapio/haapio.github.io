@@ -10,4 +10,6 @@ layout: default
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [.gitignore](https://github.com/github/gitignore/blob/master/Swift.gitignore)
 - [CocoaPods](https://cocoapods.org)
+  - [Alamofire](https://cocoapods.org/pods/Alamofire)
+  - [SwiftyJSON](https://cocoapods.org/pods/SwiftyJSON)
 
