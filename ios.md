@@ -21,12 +21,14 @@ layout: default
 - [http status codes](https://www.restapitutorial.com/httpstatuscodes.html)
 - [userdefaults](https://developer.apple.com/documentation/foundation/userdefaults)
 
+
 ## Pods
 - [CocoaPods](https://cocoapods.org)
   - [Alamofire](https://cocoapods.org/pods/Alamofire)
   - [SwiftyJSON](https://cocoapods.org/pods/SwiftyJSON)
   
 ## Swift
+- [the-swift-programming-language](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 - [swift.org](https://swift.org)
 - [ErrorHandling](https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html)
 - [swift](https://developer.apple.com/documentation/swift)
