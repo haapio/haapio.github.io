@@ -8,4 +8,4 @@ layout: default
 
 [iOS & Swift](./ios.html)
 
-[Git] (./atlassian-git-cheatsheet.pdf)
+[Git](./atlassian-git-cheatsheet.pdf)
