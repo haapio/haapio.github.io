@@ -36,3 +36,7 @@ layout: default
 - [optional](https://developer.apple.com/documentation/swift/optional/)
 - [top 5 libraries](https://infinum.co/the-capsized-eight/top-5-ios-libraries-every-ios-developer-should-know-about)
 
+- [colors](https://colorhunt.co)
+- [icons](https://iconstore.co)
+- [images](https://unsplash.com)
+
