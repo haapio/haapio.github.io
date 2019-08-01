@@ -8,4 +8,6 @@ layout: default
 
 [iOS & Swift](./ios.html)
 
+[Android & Kotlin](./android.html)
+
 [Git](./atlassian-git-cheatsheet.pdf)
