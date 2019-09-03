@@ -5,10 +5,12 @@ layout: default
 
 # React Native
 
+###### Clean
 ```
 rm -Rf node_modules && rm -Rf ios/build/* && rm -Rf android/build/* && npm install
 ```
 
+###### Android emulator wifi fix
 ```
 export PATH=$ANDROID_SDK/emulator:$ANDROID_SDK/tools:$PATH
 emulator -list-avds
