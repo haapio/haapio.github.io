@@ -8,7 +8,7 @@ layout: default
 
 #### Venyttely
 
-Youtube - [Lisää pituutta draiveihin - 14:45](https://www.youtube.com/watch?v=lCz5lVhGB9A)
+[Youtube](https://www.brand.youtube/youtube-logo/#core-logo) - [Lisää pituutta draiveihin - 14:45](https://www.youtube.com/watch?v=lCz5lVhGB9A)
 1.  Räväkämmin taakse
 2.  Pysäytä ylhäälä ja kiihdytä alas
 3.  Ranteen
