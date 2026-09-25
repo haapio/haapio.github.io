@@ -3,7 +3,7 @@ layout: default
 ---
 #### Drive
 
-Youtube - [Lisää pituutta draiveihin - 14:45](https://www.youtube.com/watch?v=lCz5lVhGB9A)
+![Youtube](youtube.png | width=10) - [Lisää pituutta draiveihin - 14:45](https://www.youtube.com/watch?v=lCz5lVhGB9A)
 1.  Räväkämmin taakse
 2.  Pysäytä ylhäälä ja kiihdytä alas
 3.  Ranteen
