@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-###### Header 6
+###### Drive
 
 Youtube -  [Lisää pituutta draiveihin - 14:45](https://www.youtube.com/watch?v=lCz5lVhGB9A)
 1.  Räväkämmin taakse
@@ -9,4 +9,4 @@ Youtube -  [Lisää pituutta draiveihin - 14:45](https://www.youtube.com/watch?v
 3.  Ranteen
 4.  Vedä grippiä ylöspäin
 
-[back](./)
+[Takaisin](./)
