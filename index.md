@@ -1,8 +1,5 @@
 ---
 layout: default
 ---
+[Stretching](./stretching.html) -- [Drive](./drive.html)
 
-# Golf
-
-[Stretching](./stretching.html)
-[Drive](./drive.html)
