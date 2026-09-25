@@ -1,11 +1,8 @@
 exclude:
   - node_modules
   - script
-
 sass:
   style: :compressed
-
 theme: jekyll-theme-primer
-  
-title: Golf tips
+title: Golf
 description: 
