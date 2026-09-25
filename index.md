@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Draivi](./drive.html) - [Kuntosali](./kuntosali.html)
+[Draivi](./draivi.html) - [Kuntosali](./kuntosali.html)
 
 ---
 
