@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#### Kuntosali
+## Kuntosali
 
 Youtube - [Lisää pituutta draiveihin - 14:45](https://www.youtube.com/watch?v=lCz5lVhGB9A)
 1.  Räväkämmin taakse
