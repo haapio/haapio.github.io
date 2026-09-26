@@ -8,5 +8,3 @@ Youtube - [Lisää pituutta draiveihin - 14:45](https://www.youtube.com/watch?v=
 2.  Pysäytä ylhäälä ja kiihdytä alas
 3.  Ranteen
 4.  Vedä grippiä ylöspäin
-
-[Takaisin](./)
