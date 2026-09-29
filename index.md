@@ -33,6 +33,8 @@ layout: default
 1.  Back swing
 2.  Lonkat
 
+###### Youtube - [Ranteet](https://www.youtube.com/shorts/DLEuGUNoeWg)
+
 
 
 
