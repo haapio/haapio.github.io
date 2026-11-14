@@ -1,4 +1,4 @@
-# The Primer theme
+# The Primer theme!
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/primer/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/primer/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-primer.svg)](https://badge.fury.io/rb/jekyll-theme-primer)
 
