@@ -1,116 +1,117 @@
-# The Primer theme!
+![image](https://user-images.githubusercontent.com/103902448/164163511-37d22660-905c-4355-a6f4-91c6eee2d1a4.png)
+# Unemployables Portfolio Template
+A template for the Unemployables who need to showcase their creative work, whatever that may be.
+<br /><br />
+**Demo:** https://ndoherty-xyz.github.io/unemployables-portfolio-template/
+<br />
+<br />
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/primer/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/primer/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-primer.svg)](https://badge.fury.io/rb/jekyll-theme-primer)
+#### Table of Contents:
+<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#about-this-template">About this template</a></br>
+<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#getting-started">Getting started</a></br>
+<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#how-to-customize-this-template">How to customize this template</a></br>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#creating-a-new-project-page-and-adding-it-to-the-homepage">Creating a new project page</a></br>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#adding-images-to-the-project-gallery">Adding gallery images</a></br>
+<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#publishing-with-github-pages">Publishing with Github Pages</a></br>
+<br />
+<br />
 
-*Primer is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/primer), or even [use it today](#usage).*
+## About this template
+After seeing the mission of Unemployables (https://unemployables.io/) to help people become self-employed and grow their businesses, I immediately thought about helping people build portfolios. It's something that I've helped friends with in the past and really enjoyed doing. <br /><br />
+This template is mobile friendly, so you won't have to worry about your site not working on phones.
+<br />
+<br />
 
-![Thumbnail of Primer](thumbnail.png)
+**The goals of this template are:**
+- To be a starting point for someone who's never touched web development but wants to build their own portfolio website. 
+- Help keep costs of running a portfolio website low by publishing the website on Github Pages for free (instructions further down).
+<br />
+<br />
 
-## Usage
+## Getting started
+**If you haven't used Git / Github before, here's some guides to get you started:**
+- Basics of git: https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+- Forking a repository: https://docs.github.com/en/get-started/quickstart/fork-a-repo
+<br />
 
-To use the Primer theme:
+**Template instructions:**
+1. Click the `Use As Template` button above and name your new repository (it should be set to public).
+2. Clone your newly created repo to your local machine.
+3. Navigate to the cloned repo on your machine and open `index.html` with your browser.
+4. Open the repo folder in your favorite code editor and start editing. (Make sure to refresh the browser to see the code changes you make!)
+5. Publish your site by pushing your commits to your repo.
+6. Set up Github Pages (guide further down!)
+<br />
+<br />
 
-1. Add the following to your site's `_config.yml`:
+## How to customize this template
+**All changes that need to be made are commented in the code with a `TODO` tag.**
+Search for it and you'll find all the changes you need to make. That being said, there are some high level things to know:
 
-    ```yml
-    remote_theme: pages-themes/primer@v0.6.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+- Image assets that you add for projects, header photo, or the favicon should go in the `assets/images` folder
+- For every new project page, make a copy of `project-template.html` and keep it in the `project-pages` folder
+- All styling is located in the `css` folder, have at it if you feel like changing up the styling.
+- The `js` folder holds one script file that you can add any custom Javascript into.
+<br />
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
-## Customizing
-
-### Configuration variables
-
-Primer will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+### Creating a new project page and adding it to the homepage
+1. Make a copy of `project-template.html` in the `project-pages` folder and rename it to `<project-name>.html`
+2. Open `index.html` and find the `div` with `className='project-container'`
+3. Add a new project card into that div. Here's the template for a project card:
 ```
-
-Additionally, you may choose to set the following optional variables:
-
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+  <div class="project-card">
+    <img src="./assets/images/IMAGE_NAME" class="project-image">
+    <div class="project-card-text-container">
+      <div class="subheader-text project-title">PROJECT_NAME</div>
+      <div class="body-text project-card-text">SMALL_PROJECT_DESCRIPTION</div>
+    </div>
+    <a class="button" href="./project-pages/PROJECT_PAGE_NAME.html">
+      <span class="button-text">Read More</span>
+      <image src="./assets/icons/arrow-right.svg" class="right-arrow-icon"/>
+    </a>
+  </div>
 ```
+4. Change `PROJECT_PAGE_NAME.html` to the name of the new html file you copied from the project template
+5. The project page is now linked to the homepage! Customize the page and `"project-card"` to your heart's content. 
+<br />
 
-### Stylesheet
+### Adding images to the project gallery
+1. Make sure the images that you want to show are added to the `assets/images` folder
+2. Open the project page you want to edit and find the `div` with `class="project-gallery-content"`
+3. To add an image, copy one of the two templates below and paste them into the `project-gallery-content`
+```
+Full Width Image:
 
-If you'd like to add your own custom styles:
+    <div class="gallery-image-container">
+      <img src="../assets/images/IMAGE_NAME" class="gallery-image">
+      <span class="image-caption">IMAGE_CAPTION</span>
+    </div>
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+Half Width Image:
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+    <div class="gallery-image-container half-width">
+      <img src="../assets/images/IMAGE_NAME" class="gallery-image">
+      <span class="image-caption">IMAGE_CAPTION</span>
+    </div>
+```
+4. Change IMAGE_NAME to the filename of the image you added to `assets/images` and IMAGE_CAPTION to whatever caption you want (or remove it, I don't mind)
+5. Refresh the project page in your browser and boom! Your image has been added to the gallery.
+<br />
+<br />
 
-### Layouts
+## Publishing with Github Pages
+Github Pages allows us to host this website for free! It's pretty simple to set up as well.
 
-If you'd like to change the theme's HTML layout:
+1. Head to `Settings` on the repository
+2. The repository will need to be public for this work (if it's not, navigate to `General` and scroll all the way down to `Change repository visibility`. Make it public)
+3. Navigate to `Pages` in the sidebar
+5. For `Source` choose `main` from the dropdown. Save the changes.
+6. That's it! Github should give you a URL that your website is published on (give it a few minutes to update).
+7. To add a custom domain (i.e. yourname.com), follow this guide: https://medium.com/codex/add-a-custom-domain-to-your-github-pages-personal-website-53ab40e7c7d0
+<br />
+<br />
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/primer/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/primer/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/primer/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
-
-### Customizing Google Analytics code
-
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
-
-### Overriding GitHub-generated URLs
-
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-1. Look at [the template source](https://github.com/pages-themes/primer/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/primer/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Primer theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Primer? We'd love your help. Primer is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/primer`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+## That's it!
+Feel free to send me pictures of your portfolio website once it's up and running. Would love to see them!
+https://twitter.com/ndoherty_xyz
