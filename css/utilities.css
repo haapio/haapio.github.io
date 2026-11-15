@@ -69,18 +69,6 @@ a.button {
   align-items: center;
 }
 
-
-/* Footer Styling */
-
-#footer {
-  width: 100%;
-  display: flex;
-  padding: 30px 50px;
-  justify-content: center;
-  align-items: center;
-  gap: 16px;
-}
-
 /* Link Styling */
 a.no-underline {
   text-decoration: none;
