@@ -22,7 +22,10 @@ a.icon-link:hover {
   margin: 0;
   transform: rotate(15deg);
 }
-*
+
+ul li {
+  color: white;
+}
 
 /* Navbar Styling */
 
