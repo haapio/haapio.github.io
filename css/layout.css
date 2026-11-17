@@ -100,7 +100,7 @@ body {
       height: 200px;
       object-fit: cover;
       object-position: center;
-      border-radius: 20px;
+      border-radius: 5px;
       border: 1px solid #ffffff;
     }
 
