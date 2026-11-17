@@ -20,7 +20,7 @@ body {
 /* Main Page Layout */
 
 #main-content {
-  margin: 225px 425px;
+  margin: 50px 50px;
   display: flex;
   flex-direction: column;
   gap: 30px;
