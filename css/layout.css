@@ -17,14 +17,7 @@ body {
 }
 
 
-/* Main Page Layout */
 
-#main-content {
-  margin: 50px 50px;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-}
 
 /* Portfolio Header */
 
@@ -169,6 +162,15 @@ body {
       height: auto;
     }
 
+
+/* Main Page Layout */
+
+#main-content {
+  margin: 50px 275px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
 
 /* Extra Extra large devices (large laptops and desktops, 1200px and below) */
 @media only screen and (max-width: 1600px) {
